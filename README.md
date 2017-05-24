@@ -4,6 +4,7 @@ put
 2. config.txt 
 3. default.txt 
 4. example.mp4 
+# example.mp4 just a video you can use any .mp4 file
 into the home dir.
 =====================
 create a new shell scritp file 
